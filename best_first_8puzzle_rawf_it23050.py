@@ -1,6 +1,6 @@
 """
 Algorithms: Best-First Search for 8-Puzzle (using Manhattan distance)
-Customized by: Rawf (Student ID: it23050)
+Customized by: Rawf (Student ID: it23050) 
 
 Note: Core algorithm function names (manhattan_distance, best_first_search, etc.)
 kept unchanged (important).
